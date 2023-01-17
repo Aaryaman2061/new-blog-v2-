@@ -1,0 +1,13 @@
+body{
+  height: 5000px;
+}
+html{
+  background-color: aqua;
+
+}
+
+.first-main-div{
+  height: 1000px;
+  border:none;
+
+}
