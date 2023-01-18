@@ -1,0 +1,15 @@
+
+
+.main-div{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+
+}
+
+.div-one{
+  background-color: aqua;
+}
+ 
+.div-two{
+  background-color: burlywood;
+}

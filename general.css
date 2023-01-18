@@ -1,13 +1,68 @@
 body{
   height: 5000px;
-}
-html{
-  background-color: aqua;
-
+  font-family: Arial, Helvetica, sans-serif;
+  
 }
 
 .first-main-div{
-  height: 1000px;
-  border:none;
 
+}
+.into-div{
+  display: flex;
+  justify-content: center;
+  color:azure;
+  background-color: rgb(41, 57, 138);
+  height: 40px;
+  font-size: 18px;
+  padding-top: 20px;
+}
+.nepal-flag{
+  width: 40px;
+  height: 20px;
+}
+.front-page-div{
+  display: grid;
+  background-color: #394FB7;
+  height: 900px;
+
+}
+.div-button-one{
+  display: flex;
+  justify-content: center;
+}
+.button-one{
+  height: 70px;
+  width: 280px;
+  margin-top: 40px;
+  border-radius:90px ;
+  border: none;
+  font-size: 35px;
+  font-weight: lighter;
+}
+.main-heading{
+  display: flex;
+  justify-content: center;
+  color:azure;
+  font-size: 40px;
+  height: 150px;
+}
+.main-heading-sub{
+  text-align: center;
+  height: 300px;
+  width: 700px;
+}
+.para-one{
+  color: azure;
+  font-size: 22px;
+  text-align: center;
+  height: 50px;
+  width: 700px;
+  font-weight: 60%;
+  margin-bottom: 0px;
+}
+.para-div-one{
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: center;
+  height: 50px;
 }
